@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paradise-nursery-shopping-app/static/css/main.4da809cc.css",
+    "main.js": "/paradise-nursery-shopping-app/static/js/main.f02d2f40.js",
+    "index.html": "/paradise-nursery-shopping-app/index.html",
+    "main.4da809cc.css.map": "/paradise-nursery-shopping-app/static/css/main.4da809cc.css.map",
+    "main.f02d2f40.js.map": "/paradise-nursery-shopping-app/static/js/main.f02d2f40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da809cc.css",
+    "static/js/main.f02d2f40.js"
+  ]
+}
